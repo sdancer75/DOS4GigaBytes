@@ -29,3 +29,9 @@ CREDITS
 =======
 I would like to thanx Lorenzo Micheletto, Tran (Thomas Pytel) and so many
 other guys out there for their help.
+
+
+
+![Image under DosBox](https://github.com/sdancer75/DOS4GigaBytes/Screenshot_1.jpg)
+
+PS:DosBox is crashing, but the old days I had been used a lot to my Apps. 
