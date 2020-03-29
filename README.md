@@ -34,4 +34,4 @@ other guys out there for their help.
 
 ![Image under DosBox](Screenshot_1.jpg)
 
-PS:DosBox is crashing, but the old days I had been used a lot to my Apps. 
+PS:DosBox is crashing now (too much system programming in protected mode), but the in the old days, I had been used a lot to my Apps. I am sure it still works in a clean MS DOS system. Anyway its there, to remember and to dictate the young (which they are using Rich Visual IDEs) explorers. 
